@@ -1,7 +1,6 @@
-print("My World!!")
-num =7 
+num = input("enter the number")
 if num%2==0:
 	print("Even number")
 else:
 	print("Odd number")
-print("DJ DJ DJ")
+
